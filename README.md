@@ -6,3 +6,7 @@ Another line
 HEllo world
 
 Adding another line to the file
+## Development Environment
+
+Make sure you have javascript available
+Run index.html in browser
